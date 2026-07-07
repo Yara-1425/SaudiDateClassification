@@ -3,7 +3,7 @@
 ## Project Overview
 The dates sector is one of the most vital pillars of agriculture and the economy in the Kingdom of Saudi Arabia. This project aims to automate and optimize the process of sorting and classifying dates to assist Saudi factories and farms in identifying and categorizing their harvest accurately and efficiently.
 
-An Artificial Intelligence (Image Classification) model has been developed to classify two of the most popular types of Saudi dates: **Sukkari** and **Saghai**. By analyzing input images, the model predicts the date type along with a high-accuracy confidence score, significantly reducing manual labor and enhancing production line efficiency.
+An Artificial Intelligence (Image Classification) model has been developed to classify two of the most popular types of Saudi dates: **Sukkari** and **Saghai**. By analyzing input images, the model predicts the date type.
 
 ---
 
