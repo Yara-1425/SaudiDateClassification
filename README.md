@@ -36,6 +36,8 @@ Once training was successfully completed, the model was exported in the **Tensor
 
 ### 3. Writing the Python Inference Script
 
+* `DateClassfication.py ` 
+
 ## 4. Testing & Results
 
 The model was evaluated using a test image of a Saghai date (`saqie.png`). The model successfully recognized the date type with a remarkably high precision rate.
