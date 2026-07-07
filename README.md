@@ -48,6 +48,3 @@ Class: صقعي
 Confidence Score: 0.9990219
 
 ```
-```
-
-```
